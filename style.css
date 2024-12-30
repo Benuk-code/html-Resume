@@ -1,0 +1,8 @@
+
+th, td{
+    background-color: rgb(198, 223, 214);
+}
+th, td  {
+    border-radius: 10px solide yellow;
+    border-style: inset;
+}
